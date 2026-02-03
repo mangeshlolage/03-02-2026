@@ -1,3 +1,5 @@
 Making login page
 Making signup page
-dit env file added
+dot env file added
+
+Here we go guys
