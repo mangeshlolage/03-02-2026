@@ -1,9 +1,2 @@
 Making login page
-Making signup page
-dot env file added
 
-Here we go guys
-
-feature 1 login implemented
-
-THis is done in main branch
